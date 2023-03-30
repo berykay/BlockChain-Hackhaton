@@ -6,9 +6,9 @@
      Team: WAHAP3
       </br>
      Team Members:  </br>
+     Berkay Yıldız Computer - Engineering - @berykay</br>
      Hüseyin PEKKAN - AI Engineering - @hpekkan </br>
      Muhammed Ata Turhan AI - Engineering - @fotino21</br>
-     Berkay Yıldız Computer - Engineering - @berykay</br>
      Harun Serkan Metin Computer- Engineering -@HarunSMetin</br>
       </br>
 </p>
