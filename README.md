@@ -2,6 +2,9 @@
 
 # <p align="center">---Finalist of Digiathon 2022---</p>
 
+Project Description:
+<br><br> &nbsp; &nbsp; During a 2-day hackathon, we created a blockchain project using Solidity and ReactJS to upload and verify documents and certificates. The project allows for secure and transparent storage and retrieval of important documents, with the added benefit of tamper-proof verification through the blockchain. Our team worked tirelessly to ensure that the user experience was seamless and intuitive, while also prioritizing security and privacy. We believe that this project has the potential to revolutionize the way that documents and certificates are managed.
+
 <p align="center"></br>
      Team: WAHAP3
       </br>
